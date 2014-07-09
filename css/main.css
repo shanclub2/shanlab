@@ -42,7 +42,14 @@ body {
 	margin-top: 10px;
 	padding: 0px 0px 0px 40px;
 	font-size: 18px;
-	color: #FFFFFF;
+	color: #ff3b11;
+}
+
+#logo h3 {
+	margin-top: 10px;
+	padding: 0px 0px 0px 40px;
+	font-size: 15px;
+	color: #ff3b11;
 }
 
 #logo h2 a {
